@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(255, 255, 224);
+}
+.quot {
+  font-style: italic;
+}
+h1 {
+  color: red; font-size: 12pt; text-align: center;
+}
+h2 {
+  color: red; text-align: center;
+}
